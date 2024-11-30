@@ -1,5 +1,5 @@
 <?php
-require_once 'database.php';
+require_once 'dbconf.php';
 
 function showTable1($tname,$connect,$colnames){
     try {
